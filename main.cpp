@@ -3,14 +3,6 @@
 using namespece std;
 
 float x=0;
-
-float maggiore (float a, float b) {
-  if (a>=b) {
-    return a;
-  } else if (b>a) {
-    return b;
-  }
-}
   
 int main(){
  int d=0; cin >> d; float numero [d];
